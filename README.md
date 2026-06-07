@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/fda15aa5-d3a0-4eec-bdb9-6dbe09ab735a
+
 # Autonomous AI Restaurant Agent & Inventory Management System
 
 A production-ready, event-driven automation pipeline that connects a public messaging infrastructure directly to an autonomous business database. This system leverages an advanced LLM agent to interact with customers, check live inventory availability, handle restaurant FAQs, and dynamically log orders onto a live ledger.
